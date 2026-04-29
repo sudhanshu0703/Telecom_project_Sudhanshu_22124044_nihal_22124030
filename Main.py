@@ -7,13 +7,13 @@ import random
 import numpy as np
 import matplotlib.pyplot as plt
 
-from layers.application import SmartFactoryApp
-from layers.transport import TransportLayer
-from layers.network import NetworkLayer
-from layers.datalink import DataLinkLayer
-from layers.physical import PhysicalLayer
-from utils.queueing import MM1Queue
-from utils.kpi_evaluator import KPIEvaluator
+from application import SmartFactoryApp
+from transport import TransportLayer
+from network import NetworkLayer
+from datalink import DataLinkLayer
+from physical import PhysicalLayer
+from queueing import MM1Queue
+from kpi_evaluator import KPIEvaluator
 
 
 def simulate_network(num_packets=200, snr_db=12):
