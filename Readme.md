@@ -17,7 +17,7 @@ Industrial IoT (IIoT) Smart Factory sensor monitoring application.
 
 | Name | Roll Number |
 |---|---|
-| **Sudhanshu Gurupanch** | 2212124044 |
+| **Sudhanshu Gurupanch** | 22124044 |
 | **Nihal Gupta** | 22124030 |
 
 ---
