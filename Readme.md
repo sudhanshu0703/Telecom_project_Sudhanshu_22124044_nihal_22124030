@@ -11,7 +11,7 @@ Industrial IoT (IIoT) Smart Factory sensor monitoring application.
 |---|---|
 | **Course** | EC-314 Telecommunication Networks |
 | **Branch** | Mathematics and Computing |
-| **Project Type** | End-Semester Project (10 Marks Assignment) |
+| **Project Type** | End-Semester Project |
 
 ### 👥 Team Members
 
